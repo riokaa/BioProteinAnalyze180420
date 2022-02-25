@@ -3,9 +3,9 @@
 
 由于MainByLJ.py和MainByTeacher.py运行时间可达6小时，因此重写MainByRayiooo.py以解决该程序的运行效率，实现2分钟内运行完成。
 
-|Author|爱吃大板|
+<!-- |Author|爱吃大板|
 |---|---|
-|Email|rayiooo@foxmail.com|
+|Email|rayiooo@foxmail.com| -->
 
 ## 要求
 取出 1.tab 中的编号和GO，根据 go-basic.obo 中的 is_a 关系和 part_of 关系（仅这两个关系是父子关系）找到每个编号所有GO及GO的父、爷……GO。
